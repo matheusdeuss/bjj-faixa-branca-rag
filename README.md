@@ -166,5 +166,3 @@ Abaixo, alguns exemplos de perguntas que podem ser feitas ao agente:
 > Em média, leva de 4 a 6 meses de treino constante para um faixa branca conquistar o primeiro grau. A faixa branca tem um total de até 4 graus, que são indicados por fitas pretas na ponteira da faixa.
 
 ---
-
-> **Curso**: LangChain — Criando Chatbots com RAG (Foundation)
